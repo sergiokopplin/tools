@@ -18,4 +18,7 @@
 yarn changeset
 # commit changest changes
 git push
+# check opened pull request
+# merge changes
+# wait for release
 ```
