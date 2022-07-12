@@ -3,7 +3,7 @@
 ![](https://raw.githubusercontent.com/sergiokopplin/tools/main/packages/me/kopplin.gif)
 
 ```console
-npx kopplin
+npx @kopplin/me
 ```
 
 To get my contact information.
