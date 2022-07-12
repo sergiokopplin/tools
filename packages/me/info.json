@@ -1,0 +1,17 @@
+{
+  "name": "Sérgio Kopplin",
+  "website": "https://koppl.in",
+  "github": "https://github.com/sergiokopplin",
+  "linkedin": "https://linkedin.com/in/kopplin",
+  "instagram": "https://instagram.com/koppliin",
+  "company": [
+    {
+      "name": "Loft",
+      "position": "Frontend Software Engineer",
+      "website": "https://loft.com.br",
+      "social": {
+        "github": "https://github.com/loft-br"
+      }
+    }
+  ]
+}

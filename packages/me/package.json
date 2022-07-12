@@ -1,0 +1,15 @@
+{
+  "name": "@kopplin/me",
+  "version": "0.1.0",
+  "description": "me, Sérgio Kopplin",
+  "main": "./info.json",
+  "bin": {
+    "kopplin": "./kopplin.js"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "author": "Sérgio Kopplin",
+  "license": "MIT"
+}
