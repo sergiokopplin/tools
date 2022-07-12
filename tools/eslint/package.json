@@ -1,6 +1,6 @@
 {
   "name": "@kopplin/eslint",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Shared ESLint config",
   "author": "Sergio Kopplin <sergiokopplin@gmail.com>",
   "main": "index.js",
