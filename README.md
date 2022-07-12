@@ -1,6 +1,6 @@
 ### Packages
 
-- `@kopplin/commitlint-config`: CommitLint Preset
+- `@kopplin/commitlint`: CommitLint Preset
 
 ### Useful commands
 

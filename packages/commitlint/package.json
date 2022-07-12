@@ -1,6 +1,6 @@
 {
-  "name": "@kopplin/commitlint-config",
-  "version": "1.0.0",
+  "name": "@kopplin/commitlint",
+  "version": "0.0.1",
   "description": "Shareable commitlint",
   "main": "index.js",
   "license": "MIT",
