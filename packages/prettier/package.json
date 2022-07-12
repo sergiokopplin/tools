@@ -1,0 +1,15 @@
+{
+  "name": "@kopplin/prettier",
+  "version": "0.0.1",
+  "description": "Shared prettier config",
+  "author": "Sérgio Kopplin <sergiokopplin@gmail.com>",
+  "main": "prettier.json",
+  "files": [
+    "prettier.json"
+  ],
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "license": "MIT"
+}

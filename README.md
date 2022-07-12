@@ -13,13 +13,7 @@
 ### How to Publish
 
 ```bash
-# make changes
-# commit changes
-yarn changeset
-yarn version-packages
-# commit changest changes
-git push
-# check opened pull request
-# merge changes
-# wait for release
+# make changes & commit
+yarn release-local
+# make commit & push
 ```
