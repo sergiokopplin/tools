@@ -18,8 +18,10 @@
     "@commitlint/cli": "^17.0.3",
     "@kopplin/commitlint": "*",
     "@kopplin/eslint": "*",
+    "@kopplin/prettier": "*",
     "eslint": "^8.19.0",
     "husky": "^8.0.1",
     "turbo": "latest"
-  }
+  },
+  "prettier": "@kopplin/prettier"
 }
