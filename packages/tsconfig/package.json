@@ -1,0 +1,15 @@
+{
+	"name": "@kopplin/tsconfig",
+	"version": "0.0.1",
+	"description": "Shared Typescript config",
+	"author": "Sérgio Kopplin <sergiokopplin.com>",
+	"main": "tsconfig.json",
+	"files": [
+		"tsconfig.json"
+	],
+	"keywords": [
+		"tsconfig",
+		"typescript"
+	],
+	"license": "MIT"
+}
